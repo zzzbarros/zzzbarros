@@ -1,4 +1,3 @@
-----------------------------------------------------------------------------
 
 # Welcome!
 
@@ -8,7 +7,8 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Tester from Ubistart in transition
+from Front-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
@@ -20,12 +20,10 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/zzzbarros)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/zzzbarros/)
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
-
-----------------------------------------------------------------------------------
+- Enjoy it!! <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
