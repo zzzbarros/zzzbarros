@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzzbarros&label=Profile%20views&color=0e75b6&style=flat" alt="zzzbarros" /> </p>
+
 # Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
  <br/>
