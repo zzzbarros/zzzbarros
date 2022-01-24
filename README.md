@@ -22,7 +22,7 @@ from Front-End Developer!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/zzzbarros) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/zzzbarros/) 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={zzzbarros}
+[![ZZZBARROS GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzbarros)](https://github.com/zzzbarros/github-readme-stats)
 
 
 - Thanks for visiting.
