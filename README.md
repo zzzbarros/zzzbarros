@@ -10,9 +10,9 @@
 :computer: I'm Tester from Ubistart in transition
 from Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Florianópolis-Brazil.
 
-:books: I'm currently evolving in React.
+:books: I'm currently evolving in ReactJS.
 
 <!-- :outbox_tray: 2021 Goals: create a new project and find a new job. -->
 
@@ -20,7 +20,9 @@ from Front-End Developer!
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/zzzbarros) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/zzzbarros/) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/zzzbarros) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/zzzbarros/) ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_INSTAGRAM)](https://www.instagram.com/zzzbarros/)
+
+[![ZZZBARROS GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzbarros)](https://github.com/zzzbarros/github-readme-stats)
 
 [![ZZZBARROS GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzbarros)](https://github.com/zzzbarros/github-readme-stats)
 
