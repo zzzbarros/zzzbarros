@@ -42,5 +42,4 @@ from Front-End Developer!
 
 
 - Thanks for visiting.
-
 - Enjoy it!! <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
