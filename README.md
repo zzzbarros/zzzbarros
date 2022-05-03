@@ -12,7 +12,7 @@ import Developer from 'zzzbarros'
 class Bio extends Developer {
   name     = 'José Barros',
   location = 'Florianópolis, SC - Brazil',
-  title    = 'Tester in transition from Front-End Developer',
+  title    = 'Front-End Developer',
   company  = 'Ubistart | Remote'
 }
 ```
