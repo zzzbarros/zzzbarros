@@ -30,9 +30,7 @@ from Front-End Developer!
 
 ## About me
 
-Há 2 anos trabalhando em uma sofware house. Atualmente sou front-end em um projeto e-commerce desenvolvido com NextJs e TypeScript; tenho conhecimento em internacionalização (I18n), Redux, Context, SSR, Vitest e Testing Library para testes.
-Tive participação ativa como full-stack em uma ferramente offline para criação de pedidos e geração de '.CSV', utilizando Electron, React e TypeORM.
-E comecei minha carreira como análista de testes, validando casos de ponta a ponta durante 1 ano.
+Há 2 anos trabalhando em uma sofware house. Atualmente, sou front-end em um projeto e-commerce desenvolvido com NextJs e TypeScript. Tenho conhecimento em internacionalização (I18n), Redux, Context, SSR, Vitest e Testing Library para testes. Tive participação ativa como full-stack em uma ferramente offline para criação de pedidos e geração de '.CSV', utilizando Electron, React e TypeORM. Iniciei minha carreira como análista de testes, validando casos de ponta a ponta durante 1 ano.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/zzzbarros) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/zzzbarros/)
 
