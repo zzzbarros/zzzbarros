@@ -35,8 +35,8 @@ I've currently been a Front-end for 3 years in a software house. I have knowledg
 - [x] Javascript;
 - [x] React;
 - [x] NextJS;
-- [x] SCSS, Tailwind, Chakra, Styled Components, Shadcn...;
-- [x] Internacionalização;
+- [x] SCSS, Tailwind, Chakra, Styled Components, Radix, Shadcn...;
+- [x] I18n;
 - [x] Vitest e Testing Library.
       
 I have already worked as a full-stack in an offline tool for creating and generating .CSV files. Using: Electron, React and TypeORM.
